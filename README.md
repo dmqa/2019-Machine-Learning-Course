@@ -9,4 +9,7 @@ Repository for course materials, including slides & hands-on practices.
 * Hyungrok Do <hyungrok@korea.ac.kr>
 * Hyungu Kahng <drlego9@gmail.com>
 * Mingu Kwak <min9kwak@korea.ac.kr>
+* Yoonsang Cho <yscho187@korea.ac.kr>
+* Minjung Lee <leemj2520@gmail.com>
+* Jiyoon Lee <jiyoon.lee52@gmail.com>
 * Yooyeon Sung <yooyeon6@gmail.com>
